@@ -43,6 +43,6 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat('sldkjflksjf')
+  parseFloat('2.222')
 }
 
