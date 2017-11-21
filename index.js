@@ -31,7 +31,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  parseInt('0')
+  parseInt('0x')
 }
 
 function makeInt(n) {
